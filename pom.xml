@@ -10,7 +10,7 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.ccb</groupId>
-	<artifactId>smarto-sharedWebHosting</artifactId>
+	<artifactId>myfirst</artifactId>
 	<version>1.0.0-RELEASE</version>
 	<packaging>jar</packaging>
 	<description>common function for smarto</description>
