@@ -13,7 +13,7 @@ public class ShareWebHostingApplication{
 
     @RequestMapping("/")
     public String hello(){
-        return "hello auto build of jenkins";
+        return "1hello auto build of jenkins";
     }
 }
 
